@@ -21,8 +21,8 @@ public class Conta {
 	public Long getSaldo() {
 		return saldo;
 	}
-	public void setSaldo(Long saldo) {
-		this.saldo = saldo;
+	public void setSaldo(double d) {
+		this.saldo = (long) d;
 	}
 
 }
