@@ -20,8 +20,6 @@ Desafio: Criando ambiente de desenvolvimento devidamente pronto, podemos refleti
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/167909820-acc8a14f-1386-4d94-b45a-f39018798dad.png"/></P>
 
-
-
 ## 📝 Projeto
 
 <p align="center">O projeto será baseado na proposta de um Bankline para gestão de correntistas e movimetações de receitas e depesas com base na diagramação baixo.</p>
@@ -36,3 +34,11 @@ Desafio: Criando ambiente de desenvolvimento devidamente pronto, podemos refleti
 - Interação com banco de dados através do framework ORM Hibernate
 - Disponibilizar a API Rest devidamente documentada através do Swagger
 - Publicar em um container para disposição os nossos serviços de forma pública como o Heroku
+
+## 📝 Teste da API no Swagger:
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167912705-6717fa41-5ba4-4e8c-a90e-a97f0807e67c.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167912809-9f1af9cf-816f-4de4-a0e8-12ef2760e880.png"/></P>
