@@ -38,7 +38,7 @@ Desafio: Criando ambiente de desenvolvimento devidamente pronto, podemos refleti
 ## 📝 Teste da API no Swagger:
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167912705-6717fa41-5ba4-4e8c-a90e-a97f0807e67c.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/168400667-53fd5183-5fe2-4248-9f92-9b60e7ba3ca0.png"/></P>
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/167912809-9f1af9cf-816f-4de4-a0e8-12ef2760e880.png"/></P>
